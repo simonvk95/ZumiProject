@@ -1,0 +1,6 @@
+[submodule "ZumiDashBoard"]
+	path = ZumiDashBoard
+	url = https://github.com/keuperj/ZumiDashBoard
+[submodule "Zumi_Content"]
+	path = Zumi_Content
+	url = https://github.com/RobolinkInc/Zumi_Content
