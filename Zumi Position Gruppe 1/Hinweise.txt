@@ -1,0 +1,8 @@
+Projekt_mit_kommentaren ist die primäre Lösung zur Bestimmung der Positionen.
+cv2 und Projekt2 sind Alternativlösungsansätze, die nicht ausgereift sind.
+mynew.png ist ein Bild der leeren Umgebung.
+new1.png ist ein Bild der Umgebung mit Zumis.
+top_view.png zeigt eine Maske der Straße.
+
+Position.py liefert eine objektorientierte Form der primären Lösung.
+Die Methoden können für weitere Projekte wiederverwendet werden.
